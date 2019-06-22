@@ -10,10 +10,10 @@ python web在线编辑器
 
 结果示意图:
 
-![1](F:\Py_online_editing\static\1.png)
+![1](https://github.com/BigGoby/Py_online_editing/blob/master/static/1.png)
 
 
 
 访问http://127.0.0.1:5000/run:
 
-![2](F:\Py_online_editing\static\2.png)
+![2](https://github.com/BigGoby/Py_online_editing/blob/master/static/2.png)
